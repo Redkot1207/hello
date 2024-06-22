@@ -1,9 +1,9 @@
 {
-    "name": "composer/hello",
+    "name": "firsttry/hello",
     "description": "first composer",
     "autoload": {
         "psr-4": {
-            "FirstTry\\Hello\\": "src/"
+            "Composer\\Hello\\": "src/"
         }
     },
     "require": {}
