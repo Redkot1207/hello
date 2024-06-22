@@ -3,7 +3,7 @@
     "description": "first composer",
     "autoload": {
         "psr-4": {
-            "Composer\\Hello\\": "src/"
+            "FirstTry\\Hello\\": "src/"
         }
     },
     "require": {}
