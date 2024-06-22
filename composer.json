@@ -1,6 +1,7 @@
 {
     "name": "firsttry/hello",
     "description": "first composer",
+    "license": "red",
     "autoload": {
         "psr-4": {
             "Composer\\Hello\\": "src/"
